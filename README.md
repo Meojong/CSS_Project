@@ -10,25 +10,25 @@ OP.GG는 플레이어 검색 시 기본적으로 한 페이지에 20개의 전�
 
 매번 크롤링하는데 시간이 걸리기 때문에 HTML파일로 저장한후 HTML의 데이터 처리를 하고나서 CSV로 저장하였습니다. 
 
-result : 게임결과 (승 : 1, 패 : 0)
-type : 게임 타입(솔로랭크)
-Time : 게임시간(분)
-Spell : 특수기능
-Rune : 특수기능
-kill : 적 처치 수
-Death : 사망 수
-assist : 팀 보조 수
-ward : 제어와드 설치 수
+result : 게임결과 (승 : 1, 패 : 0)   
+type : 게임 타입(솔로랭크)   
+Time : 게임시간(분)   
+Spell : 특수기능   
+Rune : 특수기능   
+kill : 적 처치 수   
+Death : 사망 수   
+assist : 팀 보조 수   
+ward : 제어와드 설치 수   
 
-win_mid : 이긴 미드 챔피언
-win_mid_kda : (킬 + 어시스트) / 데스
-win_killratio : 킬 관여율
-win_mid_dmg : 입힌 데미지
-win_mid_cs : 분당 미니언 처치 수
+win_mid : 이긴 미드 챔피언   
+win_mid_kda : (킬 + 어시스트) / 데스   
+win_killratio : 킬 관여율   
+win_mid_dmg : 입힌 데미지   
+win_mid_cs : 분당 미니언 처치 수   
 
-loss_mid : 진 미드 챔피언
-lose_mid_kda : (킬 + 어시스트) / 데스
-lose_killratio : 킬 관여율
-lose_mid_cs : 분당 미니언 처치
-win_jg : 이긴 정글 챔피언
-lose_jg : 진 정글 
+loss_mid : 진 미드 챔피언   
+lose_mid_kda : (킬 + 어시스트) / 데스   
+lose_killratio : 킬 관여율   
+lose_mid_cs : 분당 미니언 처치   
+win_jg : 이긴 정글 챔피언   
+lose_jg : 진 정글    
