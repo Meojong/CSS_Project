@@ -31,5 +31,6 @@ lose_mid_kda : (킬 + 어시스트) / 데스
 lose_killratio : 킬 관여율  
 lose_mid_dmg : 입힌 데미지   
 lose_mid_cs : 분당 미니언 처치   
+
 win_jg : 이긴 정글 챔피언   
 lose_jg : 진 정글    
